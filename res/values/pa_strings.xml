@@ -87,4 +87,6 @@
     <string name="network_traffic_arrow_summary">Show the network traffic indicator arrows</string>
     <string name="network_traffic_type">Select net activity type</string>    
 
+    <!-- In-call feedback -->
+    <string name="incall_feeedback_vibrate_title">Vibrate to indicate call status</string>
 </resources>
